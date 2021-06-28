@@ -1,6 +1,6 @@
 # hass-bootstrap-icons
 
-This is a blatant rip from the fine [@thomasleven](https://github.com/thomasloven)'s hass-fontaweomse, and I haven't really done anything except modify his code (including this readme).
+This is a blatant rip from the fine [@thomasleven](https://github.com/thomasloven)'s hass-fontaweomse, and I haven't really done anything except modify his code (including this readme). I simply wanted a way to get some icons going for personal use, and this was the best example I had.
 
 Buy him a coffee using the link @ the bottom of this readme :)
 
