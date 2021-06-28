@@ -27,8 +27,6 @@ In the bottom right corner, click the `+ Add Integration` button.
 
 If the component is properly installed, you should be able to find the 'Bootstrap Icons' in the list. You might need to clear you browser cache for the integration to show up.
 
-Select it, and the scheduler integration is ready for use.
-
 # Usage
 
 Find the icon you want in the [gallery](https://icons.getbootstrap.com/#icons).
