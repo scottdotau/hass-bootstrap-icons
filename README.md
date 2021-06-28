@@ -1,6 +1,6 @@
 # hass-bootstrap-icons
 
-This is a blatant rip from the fine @thomasloven - I haven't really done anything except modify his code (including this readme). 
+This is a blatant rip from the fine [@thomasleven](https://github.com/thomasloven)'s hass-fontaweomse, and I haven't really done anything except modify his code (including this readme).
 
 Buy him a coffee using the link @ the bottom of this readme :)
 
@@ -40,5 +40,6 @@ That's it.
 
 ---
 
-Buy @thomasloven a coffee: 
+Buy [@thomasleven](https://github.com/thomasloven) a coffee:
+
 <a href="https://www.buymeacoffee.com/uqD6KHCdJ" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
