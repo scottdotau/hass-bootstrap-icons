@@ -1,7 +1,7 @@
 {
     "domain": "bootstrap-icons",
     "name": "Bootstrap Icons",
-    "documentation": "https://github.com/scottgearyau/bootstrap-icons",
+    "documentation": "https://github.com/scottgearyau/hass-bootstrap-icons",
     "dependencies": ["frontend"],
     "codeowners": [],
     "requirements": [],
