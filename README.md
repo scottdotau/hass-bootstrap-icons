@@ -1,10 +1,33 @@
 # hass-bootstrap-icons
 
-This is a blatant rip from the fine [@thomasleven](https://github.com/thomasloven)'s hass-fontaweomse, and I haven't really done anything except modify his code (including this readme). I simply wanted a way to get some icons going for personal use, and this was the best example I had.
+This is a blatant rip from the fine [@thomasleven](https://github.com/thomasloven)'s [hass-fontawesome](https://github.com/thomasloven/hass-fontawesome), and I haven't really done anything except modify his code (including this readme). I simply wanted a way to get some icons going for personal use, and this was the best example I had.
 
 Buy him a coffee using the link @ the bottom of this readme :)
 
 Use free icons from the [bootstrap](https://icons.getbootstrap.com/) set in Home-assistant.
+
+# Installation
+
+#### Option 1: Via HACS
+
+_Not yet_
+
+#### Option 2: Manual
+
+Clone this repository or download the source code as a zip file and add/merge the `custom_components/` folder with its contents in your configuration directory.
+
+### Step 2: Restart HA
+
+In order for the newly added integration to be loaded, HA needs to be restarted.
+
+### Step 3: Add integration to HA
+
+In HA, go to Configuration > Integrations.
+In the bottom right corner, click the `+ Add Integration` button.
+
+If the component is properly installed, you should be able to find the 'Bootstrap Icons' in the list. You might need to clear you browser cache for the integration to show up.
+
+Select it, and the scheduler integration is ready for use.
 
 # Usage
 
