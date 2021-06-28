@@ -1,0 +1,9 @@
+{
+  "title": "Bootstrap Icons",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Only a single configuration of Bootstrap Icons is allowed."
+    },
+    "step": {}
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "domain": "bootstrap-icons",
+    "name": "Bootstrap Icons",
+    "documentation": "https://github.com/scottgearyau/bootstrap-icons",
+    "dependencies": ["frontend"],
+    "codeowners": [],
+    "requirements": [],
+    "config_flow": true,
+    "version": "2.1.2",
+    "iot_class": "local_polling"
+}
